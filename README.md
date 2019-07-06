@@ -10,8 +10,7 @@ A collection of resources to improve productivity
 * [UI](#UI)
 * [Libraries](#Libraries)
 * [Components](#Components)
-* [Contributing](#contributing)
-* [License](#license)
+
 
 #### 1. Templates 
 
@@ -25,7 +24,7 @@ A collection of resources to improve productivity
 
 - [name](url)
 
-#### 2. UI 
+#### 2. UI Components
 - [material-ui](https://github.com/mui-org/material-ui) React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [ant-design](https://github.com/ant-design/ant-design) 🌈A UI Design Language
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) Bootstrap components built with React
@@ -37,19 +36,7 @@ A collection of resources to improve productivity
 - [smooth-ui](https://github.com/smooth-code/smooth-ui) Modern React UI library 💅👩‍🎤🍭
 - [React95](https://github.com/React95/React95)A React components library with Win95 UI
 - [React-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design)React Bootstrap with Material Design - Powerful and free UI KIT
-
-- [name](url)
-- [name](url)
-
-#### 3. Libraries
-- [gatsby](https://github.com/gatsbyjs/gatsby) Build blazing fast, modern apps and websites with React
-- [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux
-
-- [react-grid-layout](https://github.com/STRML/react-grid-layout)A draggable and resizable grid layout with responsive breakpoints, for React.
-- [spectacle](https://github.com/FormidableLabs/spectacle) ReactJS based Presentation Library
-
-
-#### 3. Components
+- [backpack-ui](https://github.com/lonelyplanet/backpack-ui)All the tools you need to build the Lonely Planet UI experience.
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) ⏳ A higher order component for loading components with promises.
 - [Ink](https://github.com/vadimdemedes/ink)🌈 React for interactive command-line apps
 - [awesome-styled-components](https://github.com/styled-components/awesome-styled-components) A curated list of awesome styled-components resources 💅
@@ -58,11 +45,22 @@ A collection of resources to improve productivity
 - [formik](https://github.com/jaredpalmer/formik) Build forms in React, without the tears 😭 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) Beautiful and accessible drag and drop for lists with React
 - [reactstrap](https://github.com/reactstrap/reactstrap)Simple React Bootstrap 4 components
-
 - [react-components](https://github.com/zendeskgarden/react-components)🌱 garden React components
+- [reakit](https://github.com/reakit/reakit) Toolkit for building accessible rich web apps with React
+
+- [react-flexbox-grid](https://github.com/roylee0704/react-flexbox-grid) A set of React components implementing flexboxgrid with the power of CSS Modules.
+
+- [grid](https://github.com/rebassjs/grid) Responsive React grid system built with styled-system
+
 - [name](url)
-- [name](url)
-- [name](url)
+
+#### 3. Libraries
+- [gatsby](https://github.com/gatsbyjs/gatsby) Build blazing fast, modern apps and websites with React
+- [react-redux](https://github.com/reduxjs/react-redux) Official React bindings for Redux
+- [react-grid-layout](https://github.com/STRML/react-grid-layout)A draggable and resizable grid layout with responsive breakpoints, for React.
+- [spectacle](https://github.com/FormidableLabs/spectacle) ReactJS based Presentation Library
+- [autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) Auto Responsive Layout Library For React
+
 #### 4. E-commerce
 
 - [saleor](https://github.com/mirumee/saleor) A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS.
@@ -71,17 +69,18 @@ A collection of resources to improve productivity
 - [react-stripe-elements](https://github.com/stripe/react-stripe-elements) React components for Stripe.js and Stripe Elements
 
 - [cezerin](https://github.com/cezerin/cezerin)Cezerin is React and Node.js based eCommerce platform.
+- [https://github.com/binx/react-stripe-store](https://github.com/binx/react-stripe-store)roll your own ecommerce store! example:
 - [name](url)
 - [name](url)
 - [name](url)
-- [name](url)
+
 #### 5. Animation
 - [React-move](https://github.com/react-tools/react-move)◾️React Move | Beautiful, data-driven animations for React
 - [name](url)
 - [name](url)
 - [name](url)
 - [name](url)
-- [name](url)
+
 #### 6. Tutorials
 - [React for beginners](https://github.com/wesbos/React-For-Beginners-Starter-Files) A premium step-by-step training course to get you building real world React.js + Firebase apps and website components.
 - [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react) Curated collection of useful React snippets that you can understand in 30 seconds or less.
@@ -109,8 +108,9 @@ A collection of resources to improve productivity
 - [name](url)
 - [name](url)
  
- #### 8. Other
-- [name](url)
+ #### 9. Other
+- [react-express-oauth-login-system](https://github.com/syntithenai/react-express-oauth-login-system)Complete solution for login and registration in React apps using express and oauth2 as an authentication backend.
+
 - [name](url)
 - [name](url)
 - [name](url)
