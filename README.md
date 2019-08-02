@@ -37,6 +37,8 @@ A collection of resources to improve productivity
 - [react-static-boilerplate](https://github.com/iansinnott/react-static-boilerplate) A boilerplate for building static sites with Webpack 2, React and React Router
 - [ react-workspaces-playground](https://github.com/react-workspaces/react-workspaces-playground) ⚛️ Zero Config Create-React-App Monorepos with Yarn Workspaces, Lerna and React Storybook.
 - [django-reactjs-boilerplate](https://github.com/mbrochh/django-reactjs-boilerplate) An example how you can use ReactJS with your Django project.
+- [django-reactjs-boilerplate](https://github.com/vintasoftware/django-react-boilerplate)Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+- [react-boilerplate](https://github.com/theoutlander/react-boilerplate) Step by Step React Boilerplate
 
 <a name="UI"></a>
 #### 2. UI Components
@@ -83,6 +85,10 @@ blocks for web-based products built inside JetBrains.
 - [govuk-react](https://github.com/govuk-react/govuk-react) An implementation of the GOV.UK Design System in React using CSSinJS
 - [buttercup](https://github.com/buttercup/ui) React UI Components used in Buttercup products
 - [Pivotal UI](https://github.com/pivotal-cf/pivotal-ui) - Pivotal - A collection of React components that are styled for the Pivotal brand.
+- [flawwwless-ui](https://github.com/JulienRioux/flawwwless-ui) Flawwwless ui library for React.js.
+- []()
+
+
 
 <a name="bootstrap"></a>
 #### 3. bootstrap Components
@@ -141,6 +147,10 @@ blocks for web-based products built inside JetBrains.
 - [shopkit](https://github.com/notrab/shopkit) Moltin Shopkit is a minimalist component library that enables developers to easily embed commerce inside applications built with React.
 - [ecommerce-react](https://github.com/NielsDom/ecommerce-react) MERN fullstack ecommerce react/redux/node
 - [pwa-theme-woocommerce](https://github.com/appticles/pwa-theme-woocommerce) E-commerce Progressive Web App Theme (React & Redux)
+- [nicistore](https://github.com/yoonic/nicistore) Isomorphic React E-Commerce Storefront
+
+- []()
+- []()
 
 <a name="Animation"></a>
 #### 9. Animation
